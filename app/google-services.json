@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "670590853384",
+    "firebase_url": "https://volley-9fffd.firebaseio.com",
+    "project_id": "volley-9fffd",
+    "storage_bucket": "volley-9fffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670590853384:android:53de8c6e50d3fde5",
+        "android_client_info": {
+          "package_name": "com.example.meg.volley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670590853384-b8flscrs14l1hfujhcd0vujomrki4smf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meg.volley",
+            "certificate_hash": "6c5538125670dd896a45cea973c04934482ddb18"
+          }
+        },
+        {
+          "client_id": "670590853384-2h0s51uo0q8b3jcrictnqbl6lt909h4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5WBYQ-wnyVYVHfq_-nFv7CXgE5k8XZn8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670590853384-2h0s51uo0q8b3jcrictnqbl6lt909h4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
